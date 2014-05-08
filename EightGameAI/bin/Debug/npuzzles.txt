@@ -1,0 +1,31 @@
+# each line represents a different 8-puzzle start state.
+# each 8-puzzle's start state is given as a string of length 9.
+# positions 1 through 3 are the numbers of the tiles in the first row,
+# positions 4 through 6 are the numbers of the tiles in the second row,
+# and so on.  number 0 represents the blank space.  
+#
+# the goal is to find the sequence of moves leading to the goal state string
+# 012345678
+
+
+312645078
+140352678
+310452678
+102347685
+125704368
+162305748
+632145078
+351702468
+432681705
+314057682
+438201657
+152307648
+154378026
+310628457
+810423657
+852307146
+340512786
+870365124
+652871430
+785643210
+432801657

@@ -1,0 +1,61 @@
+C:\Users\flaVius\Documents\Visual Studio 2008\Projects\EightGameAI\EightGameAI\bin\Debug\EightGameAI.exe
+C:\Users\flaVius\Documents\Visual Studio 2008\Projects\EightGameAI\EightGameAI\bin\Debug\EightGameAI.pdb
+C:\Users\flaVius\Documents\Visual Studio 2008\Projects\EightGameAI\EightGameAI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\flaVius\Documents\Visual Studio 2008\Projects\EightGameAI\EightGameAI\obj\Debug\EightGameAI.exe
+C:\Users\flaVius\Documents\Visual Studio 2008\Projects\EightGameAI\EightGameAI\obj\Debug\EightGameAI.pdb
+Z:\EightGameAI\EightGameAI\obj\Debug\EightGameAI.exe
+Z:\EightGameAI\EightGameAI\obj\Debug\EightGameAI.pdb
+Z:\EightGameAI\EightGameAI\bin\Debug\EightGameAI.exe
+Z:\EightGameAI\EightGameAI\bin\Debug\EightGameAI.pdb
+Z:\EightGameAI\EightGameAI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\flaVius\Desktop\EightGameDFS\EightGameAI\obj\Debug\EightGameAI.exe
+C:\Users\flaVius\Desktop\EightGameDFS\EightGameAI\obj\Debug\EightGameAI.pdb
+C:\Users\flaVius\Desktop\EightGameDFS\EightGameAI\bin\Debug\EightGameAI.exe
+C:\Users\flaVius\Desktop\EightGameDFS\EightGameAI\bin\Debug\EightGameAI.pdb
+C:\Users\flaVius\Desktop\EightGameDFS\EightGameAI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pcappell\Desktop\EightGameDFS\EightGameAI\obj\Debug\EightGameAI.exe
+C:\Documents and Settings\pcappell\Desktop\EightGameDFS\EightGameAI\obj\Debug\EightGameAI.pdb
+C:\Documents and Settings\pcappell\Desktop\EightGameDFS\EightGameAI\bin\Debug\EightGameAI.exe
+C:\Documents and Settings\pcappell\Desktop\EightGameDFS\EightGameAI\bin\Debug\EightGameAI.pdb
+C:\Documents and Settings\pcappell\Desktop\EightGameDFS\EightGameAI\obj\Debug\ResolveAssemblyReference.cache
+Z:\451\EightGameDFS\EightGameAI\obj\Debug\EightGameAI.exe
+Z:\451\EightGameDFS\EightGameAI\obj\Debug\EightGameAI.pdb
+Z:\451\EightGameDFS\EightGameAI\bin\Debug\EightGameAI.exe
+Z:\451\EightGameDFS\EightGameAI\bin\Debug\EightGameAI.pdb
+Z:\451\EightGameDFS\EightGameAI\obj\Debug\ResolveAssemblyReference.cache
+Z:\451\EightGameDFS\EightGameAI\obj\Debug\EightGameAI.Properties.Resources.resources
+Z:\451\EightGameDFS\EightGameAI\obj\Debug\EightGameAI.csproj.GenerateResource.Cache
+C:\Documents and Settings\pcappell\Desktop\EightGameGreedy\EightGameAI\obj\Debug\EightGameAI.exe
+C:\Documents and Settings\pcappell\Desktop\EightGameGreedy\EightGameAI\obj\Debug\EightGameAI.pdb
+C:\Users\cyan1de\Desktop\EightGameGreedy\EightGameAI\obj\Debug\EightGameAI.exe
+C:\Users\cyan1de\Desktop\EightGameGreedy\EightGameAI\obj\Debug\EightGameAI.pdb
+C:\Users\cyan1de\Desktop\EightGameGreedy\EightGameAI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cyan1de\Desktop\EightGameGreedy\EightGameAI\obj\Debug\EightGameAI.Properties.Resources.resources
+C:\Users\cyan1de\Desktop\EightGameGreedy\EightGameAI\obj\Debug\EightGameAI.csproj.GenerateResource.Cache
+C:\Users\cyan1de\Desktop\EightGameGreedy\EightGameAI\bin\Debug\EightGameAI.exe
+C:\Users\cyan1de\Desktop\EightGameGreedy\EightGameAI\bin\Debug\EightGameAI.pdb
+C:\Users\cyan1de\Desktop\EightGameGreedy\EightGameAI\bin\Debug\npuzzles.txt
+C:\Users\flaVius\Desktop\EightGameGreedy\EightGameAI\obj\Debug\EightGameAI.exe
+C:\Users\flaVius\Desktop\EightGameGreedy\EightGameAI\obj\Debug\EightGameAI.pdb
+C:\Users\flaVius\Desktop\EightGameGreedy\EightGameAI\bin\Debug\npuzzles.txt
+C:\Users\flaVius\Desktop\EightGameGreedy\EightGameAI\bin\Debug\EightGameAI.exe
+C:\Users\flaVius\Desktop\EightGameGreedy\EightGameAI\bin\Debug\EightGameAI.pdb
+C:\Users\flaVius\Desktop\EightGameGreedy\EightGameAI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\flaVius\Desktop\EightGameGreedy\EightGameAI\obj\Debug\EightGameAI.Properties.Resources.resources
+C:\Users\flaVius\Desktop\EightGameGreedy\EightGameAI\obj\Debug\EightGameAI.csproj.GenerateResource.Cache
+C:\Users\flaVius\Desktop\EightGameAstar\EightGameAI\obj\Debug\EightGameAI.exe
+C:\Users\flaVius\Desktop\EightGameAstar\EightGameAI\obj\Debug\EightGameAI.pdb
+C:\Users\flaVius\Desktop\EightGameAstar\EightGameAI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\flaVius\Desktop\EightGameAstar\EightGameAI\obj\Debug\EightGameAI.Properties.Resources.resources
+C:\Users\flaVius\Desktop\EightGameAstar\EightGameAI\obj\Debug\EightGameAI.csproj.GenerateResource.Cache
+C:\Users\flaVius\Desktop\EightGameAstar\EightGameAI\bin\Debug\npuzzles.txt
+C:\Users\flaVius\Desktop\EightGameAstar\EightGameAI\bin\Debug\EightGameAI.exe
+C:\Users\flaVius\Desktop\EightGameAstar\EightGameAI\bin\Debug\EightGameAI.pdb
+Z:\451\EightGameAstar\EightGameAI\obj\Debug\EightGameAI.exe
+Z:\451\EightGameAstar\EightGameAI\obj\Debug\EightGameAI.pdb
+Z:\451\EightGameAstar\EightGameAI\obj\Debug\ResolveAssemblyReference.cache
+Z:\451\EightGameAstar\EightGameAI\obj\Debug\EightGameAI.Properties.Resources.resources
+Z:\451\EightGameAstar\EightGameAI\obj\Debug\EightGameAI.csproj.GenerateResource.Cache
+Z:\451\EightGameAstar\EightGameAI\bin\Debug\npuzzles.txt
+Z:\451\EightGameAstar\EightGameAI\bin\Debug\EightGameAI.exe
+Z:\451\EightGameAstar\EightGameAI\bin\Debug\EightGameAI.pdb
